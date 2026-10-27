@@ -66,6 +66,7 @@ All of them are in Russian; no English versions exist.
 - [Decision log](https://github.com/vimakushin/crypto-signal-agent/blob/master/BACKLOG.md): the entry "Итог измерения 15 октября 2026" is the measurement above. The file is long.
 - [Working rules](https://github.com/vimakushin/crypto-signal-agent/blob/master/CLAUDE.md)
 - [Labelling rule](https://github.com/vimakushin/crypto-signal-agent/blob/master/LABELING.md): how episode outcomes are judged.
+- [Definitions of the review agents](https://github.com/vimakushin/crypto-signal-agent/tree/master/.claude/agents): the roles mentioned above (also in Russian).
 
 ## Scale
 
