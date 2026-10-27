@@ -8,6 +8,8 @@ Business and systems analyst with ten years of experience: five as an analyst in
 - [**crypto-signal-agent**](https://github.com/vimakushin/crypto-signal-agent): what looks unusual in the market data today? Daily flags on revenue, market cap, volume and futures open interest, for a human to investigate; it does not predict prices. *Has been collecting data daily since September (the database confirms it). The MVP checkmark is not confirmed: it is not established whether the digests arrived on their own.*
 - [**crypto-portfolio-app**](https://github.com/vimakushin/crypto-portfolio-app): what is the average entry price across exchanges and wallets, when transfers are moves rather than trades? *Work in progress: entries are lost on reload; the interface is in Russian only.*
 
-The spec ([TZ](https://github.com/vimakushin/crypto-signal-agent/blob/master/TZ_crypto_early_signal_detector.md)), the development plan ([SURVEILLANCE.md](https://github.com/vimakushin/crypto-signal-agent/blob/master/SURVEILLANCE.md)) and the working log ([BACKLOG.md](https://github.com/vimakushin/crypto-signal-agent/blob/master/BACKLOG.md)) of crypto-signal-agent are public: you can read them. They are in Russian.
+**[How the work is done](how-the-work-is-done.md)**: one page in English on how a project is run, from the requirements specification to the decision log, with one worked case where a measurement left the project's original claim unproven, and the project dropped it.
+
+The requirements specification ([TZ](https://github.com/vimakushin/crypto-signal-agent/blob/master/TZ_crypto_early_signal_detector.md)), the development plan ([SURVEILLANCE.md](https://github.com/vimakushin/crypto-signal-agent/blob/master/SURVEILLANCE.md)) and the decision log ([BACKLOG.md](https://github.com/vimakushin/crypto-signal-agent/blob/master/BACKLOG.md)) of crypto-signal-agent are public: you can read them. They are in Russian.
 
 [LinkedIn](https://www.linkedin.com/in/vitaliy-makushin)
